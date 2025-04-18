@@ -3,3 +3,6 @@
 
 # Executive Dashboard
 ![Executive dashboard](https://github.com/user-attachments/assets/27135aa8-276f-4bde-a0e1-84c4ef211d0a)
+
+# Screentime Analysis for Children Dashboard
+![screen_time_dashboard.xlsx](https://github.com/user-attachments/files/19811393/screen_time_dashboard.xlsx)
